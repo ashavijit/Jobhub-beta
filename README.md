@@ -19,17 +19,7 @@
 </ul>
 
 
-##### Home Page
-![logo](/ss/home.png?raw=true "Logo")
 
-##### Login Page
-![logo](/ss/login.png?raw=true "Logo")
-
-##### Applicant Sign Up Page
-![logo](/ss/signup2.png?raw=true "Logo")
-
-##### Company Sign Up Page
-![logo](/ss/signup1.png?raw=true "Logo")
 
 
 ## How to run:
