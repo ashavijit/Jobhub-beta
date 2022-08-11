@@ -8,7 +8,7 @@ SECRET_KEY = 'ix4hnvelil^q36!(bg#)_+q=vkf4yk)@bh64&0qc2z*zy5^kdz'
 
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://jobhub-avijit.herokuapp.com/"]
 
 INSTALLED_APPS = [
     'user',
