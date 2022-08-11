@@ -1,1 +1,1 @@
-web: gunicorn jobland.wsgim--log-file
+web: gunicorn jobland.wsgi
