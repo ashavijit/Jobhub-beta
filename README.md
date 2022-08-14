@@ -78,7 +78,7 @@ First clone the repository from Github and switch to the new directory:
 Activate the virtualenv for your project.  For Linux
 
 
-    $ source bin/activate
+    $ source venv/bin/activate
 
     
     
