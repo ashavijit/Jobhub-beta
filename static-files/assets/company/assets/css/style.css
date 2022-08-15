@@ -2053,15 +2053,15 @@ h1, h2, h3, h4 {
 }
 
 .home-section.section-hero.overlay.bg-image {
-  background-image: url('..../images/hero_1.jpg');
+  background-image: url('../../../images/hero_1.jpg');
 }
 
 .py-5.bg-image.overlay-primary.fixed.overlay {
-  background-image: url('..../images/hero_1.jpg');
+  background-image: url('../../../images/hero_1.jpg');
 }
 
 .section-hero.overlay.inner-page.bg-image#home-section{
-  background-image: url('..../images/hero_1.jpg');
+  background-image: url('../../../images/hero_1.jpg');
 }
 
 .jm-sticky-top {
