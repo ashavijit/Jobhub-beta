@@ -123,9 +123,13 @@ Open Localhost on your browser to see the application.
 # Build Docker Image
 
     $ docker build -t jobhub .
+    
+    
+    
 
 
-
+# Upcoming AWS 
+  
 
  # YouTube demo
 
